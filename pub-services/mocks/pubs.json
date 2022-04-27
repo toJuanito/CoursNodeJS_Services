@@ -1,0 +1,72 @@
+[
+    {
+        "name": "toJuanito",
+        "owner": {
+            "firstName": "Juan",
+            "lastName": "Trejos",
+            "mail": "Juan@tojuanito.com"
+        },
+        "openDays": [
+            "Friday",
+            "Saturday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Triple Karmeliet"
+            }
+        ]
+    },
+    {
+        "name": "La bière chaud",
+        "owner": {
+            "firstName": "Laric",
+            "lastName": "Olson",
+            "mail": "Juan@tojuanito.com"
+        },
+        "openDays": [
+            "Monday",
+            "Saturday",
+            "Sunday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Triple Karmeliet"
+            }
+        ]
+    },
+    {
+        "name": "Arawak",
+        "owner": {
+            "firstName": "Nicolas",
+            "lastName": "Hodicq",
+            "mail": "nhodicq@bewizyu.com"
+        },
+        "openDays": [
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+        ],
+        "openHours": {
+            "start": 10,
+            "end": 1
+        },
+        "beers": [
+            {
+                "type": "Blonde",
+                "name": "Triple Karmeliet"
+            }
+        ]
+    }
+]
